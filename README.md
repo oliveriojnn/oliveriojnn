@@ -4,7 +4,7 @@ Um ex-sysadmin entusiasta do mundo linux que decidiu focar no mundo/cultura DevO
 
 Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jornal do Commercio de Comunicação)
 
-## Habilidades
+## Experiência profissional
 
 - 📱 GNU/Linux, Windows
 - ☁️ AWS, GCP, DigitalOcean
