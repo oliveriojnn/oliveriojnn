@@ -4,9 +4,10 @@ Um ex-sysadmin entusiasta do mundo linux que decidiu focar no mundo/cultura DevO
 
 - 🔭 Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jornal do Commercio de Comunicação)
 - ☁️ AWS, GCP, DigitalOcean
-- 💻 Docker, Kubernetes, Helm, Terraform, Ansible, nginx, apache2, MySQL, GitHub Actions, Argo CD, Zabbix, Grafana
+- 💻 Docker, Kubernetes, Helm, Terraform, Ansible, nginx, apache2, MySQL, Jenkins, GitHub Actions, Argo CD, Zabbix, Grafana
 - 📟 Python, Shell Script, PHP, Laravel, Flask, FastAPI
 - 🛠️ Serviços: ownCloud, vsftpd, proFTPD, openfire, squid3, ocs-inventory, samba
+- 🌏 Cloudflare, Azion
 - 📫 <a href="mailto:contato@ojnn.com.br">E-mail</a> / <a href="https://ojnn.com.br">LinkedIn</a>
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon)
