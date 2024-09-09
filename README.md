@@ -10,7 +10,7 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 - ☁️ AWS, GCP, DigitalOcean
 - 💻 Docker, Kubernetes, Helm, Terraform, Ansible, nginx, apache2, MySQL, Jenkins, GitHub Actions, Argo CD, Zabbix, Grafana
 - 📟 Python, Shell Script, PHP, Laravel, Flask, FastAPI
-- 🛠️ BackupPC, Veeam, ownCloud, vsftpd, proFTPD, openfire, Nagios, Squid3, OCS Inventory, Samba
+- 🛠️ VMware, Fortigate, BackupPC, Veeam, ownCloud, vsftpd, proFTPD, openfire, Nagios, Squid3, OCS Inventory, Samba
 - 🌐 IP, UDP/TCP, DNS, DHCP, SNMP, HTTPS, TLS/SSL, SSH/Telnet, ICMP, ARP, NTP, SMTP, POP/IMAP
 - 🌏 Cloudflare, Azion
 - 📫 <a href="mailto:contato@ojnn.com.br">E-mail</a> / <a href="https://ojnn.com.br">LinkedIn</a>
