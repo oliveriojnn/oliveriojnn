@@ -9,7 +9,7 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 - 📱 GNU/Linux, Windows
 - ☁️ AWS, GCP, DigitalOcean
 - 💻 Docker, Kubernetes, Helm, Terraform, Ansible, nginx, apache2, MySQL, Jenkins, GitHub Actions, Argo CD, Zabbix, Grafana
-- 📟 Python, Flask, FastAPI, Shell Script, PHP, Laravel, WordPress
+- 📟 Python, Flask, FastAPI, Bash, PHP, Laravel, WordPress
 - 🛠️ VMware, Fortigate, BackupPC, Veeam, ownCloud, vsftpd, proFTPD, openfire, Nagios, Squid3, OCS Inventory, Samba
 - 🌐 IP, TCP/UDP, DNS, DHCP, SNMP, HTTPS, TLS/SSL, SSH/Telnet, ICMP, ARP, NTP, SMTP, POP/IMAP
 - 🌏 Cloudflare, Azion
