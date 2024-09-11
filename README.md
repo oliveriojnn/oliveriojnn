@@ -13,7 +13,6 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 - 🛠️ VMware, Fortigate, BackupPC, Veeam, ownCloud, vsftpd, proFTPD, openfire, Nagios, Squid3, OCS Inventory, Samba
 - 🌐 IP, TCP/UDP, DNS, DHCP, SNMP, HTTPS, TLS/SSL, SSH/Telnet, ICMP, ARP, NTP, SMTP, POP/IMAP
 - 🌏 Cloudflare, Azion
-- 📫 <a href="mailto:contato@ojnn.com.br">E-mail</a> / <a href="https://ojnn.com.br">LinkedIn</a>
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
