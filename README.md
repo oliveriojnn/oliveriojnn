@@ -1,18 +1,18 @@
 # Olivério Neto
 
-Um ex-sysadmin entusiasta do mundo linux que decidiu focar no mundo/cultura DevOps.
+Um ex-sysadmin entusiasta do mundo linux que decidiu focar no mundo/cultura DevOps / SRE.
 
 Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jornal do Commercio de Comunicação)
 
 ## Experiência profissional
 
-- 📱 GNU/Linux, Windows
-- ☁️ AWS, GCP, DigitalOcean
-- 💻 Docker, Kubernetes, Helm, Terraform, Ansible, nginx, apache2, MySQL, Jenkins, GitHub Actions, Argo CD, Zabbix, Grafana
-- 📟 Python, Flask, FastAPI, Bash, PHP, Laravel, WordPress
-- 🛠️ VMware, Fortigate, BackupPC, Veeam, ownCloud, vsftpd, proFTPD, openfire, Nagios, Squid3, OCS Inventory, Samba
-- 🌐 IP, TCP/UDP, DNS, DHCP, SNMP, HTTPS, TLS/SSL, SSH/Telnet, ICMP, ARP, NTP, SMTP, POP/IMAP
-- 🌏 Cloudflare, Azion
+- Cloud: AWS, Google Cloud Platform (GCP)
+- Containers e Orquestração: Docker, Kubernetes, Helm
+- Infraestrutura como Código e Automação: Terraform, Ansible, Jenkins, GitHub Actions, Argo CD
+- Servidores Web e Banco de Dados: nginx, Apache, MySQL
+- Monitoramento, Observabilidade e Segurança: Wazuh, Zabbix, Grafana, Nagios, Fortigate
+- Desenvolvimento e Scripting: Python, Bash
+- Virtualização e Backup: VMware, Veeam
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
