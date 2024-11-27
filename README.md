@@ -6,7 +6,7 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 
 ## Experiência profissional
 
-- Cloud: AWS, Google Cloud Platform (GCP)
+- Cloud: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 - Containers e Orquestração: Docker, Kubernetes, Helm
 - Infraestrutura como Código e Automação: Terraform, Ansible, Jenkins, GitHub Actions, Argo CD
 - Servidores Web e Banco de Dados: nginx, Apache, MySQL
