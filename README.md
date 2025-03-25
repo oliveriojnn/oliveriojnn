@@ -7,12 +7,18 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 ## Experiência profissional
 
 - Cloud: Amazon Web Services (AWS), Google Cloud Platform (GCP)
-- Containers e Orquestração: Docker, Kubernetes, Helm
-- Infraestrutura como Código e Automação: Terraform, Ansible, Jenkins, GitHub Actions, Argo CD
-- Servidores Web e Banco de Dados: nginx, Apache, MySQL
-- Monitoramento, Observabilidade e Segurança: Wazuh, Zabbix, Grafana, Nagios, Fortigate
-- Desenvolvimento e Scripting: Python, Bash
-- Virtualização e Backup: VMware, Veeam
+- Containers & Orquestração: Docker, Kubernetes, Helm
+- Infraestrutura como Código (IaC) & Automação: Terraform, Ansible
+- Servidores Web: Nginx, Apache2
+- Bancos de dados: MySQL
+- CI/CD: Jenkins, GitHub Actions
+- Monitoramento e Observabilidade: Elastic Stack (Elasticsearch, Logstash, Kibana, APM, Fleet), Zabbix, Grafana, Loki, Graylog
+- Troubleshooting & Debug: cURL, Postman, Insomnia
+- Versionamento de código: GitHub, GitLab
+- Cache/CDN: Cloudflare, Azion
+- Linguagens de programação & Scripting: Python, Shell Scripting, PHP
+- Frameworks & CMS: Laravel, WordPress
+- Firewall: Fortigate
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
