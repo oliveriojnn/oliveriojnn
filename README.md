@@ -8,6 +8,7 @@ Atualmente estou trabalhando no <a href="https://jc.com.br">SJCC</a> (Sistema Jo
 
 - Cloud: Amazon Web Services (AWS), Google Cloud Platform (GCP)
 - Containers & Orquestração: Docker, Kubernetes, Helm
+- Kubernetes Management Platform: Lens, Rancher
 - Infraestrutura como Código (IaC) & Automação: Terraform, Ansible
 - Servidores Web: Nginx, Apache2
 - Bancos de dados: MySQL
